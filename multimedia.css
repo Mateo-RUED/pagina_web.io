@@ -1,0 +1,54 @@
+
+iframe{
+float:left;
+margin-right: 50px;
+}
+
+body{
+
+background-image: url(./Imagenes/pexels-2.jpg);
+background-repeat: repeat;
+
+}
+
+pr{
+
+color: aliceblue;
+
+}
+
+h1{
+
+    font-size: 25px;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+    color: aliceblue;
+    text-shadow: 3px 3px 8px rgba(255, 180, 180, 0.5);
+
+}
+
+h4{
+
+    font-family: verdana;
+    font-size: 20px;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 3px 3px 8px rgb(0, 255, 106);
+
+}
+
+header{
+
+margin-bottom: 100px;
+
+}
+
+.div1{
+    display: flex;
+justify-content: center;
+}
+
+.div1 img{
+margin-right:50px; 
+}
